@@ -6,5 +6,5 @@ jobs:
     steps:
       - uses: muinmomin/webhook-action@v1.0.0
         with:
-          url: "https://k2.kebtke.id/deploy"
+          url: ${{ secrets.DEPLOY_URL }}
           data: "{'command': 'publish'}"
