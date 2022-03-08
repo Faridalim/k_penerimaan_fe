@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.4c05a2e0.css",
-    "main.js": "/static/js/main.552e84e7.js",
+    "main.js": "/static/js/main.e21450e3.js",
     "static/js/787.db9b214f.chunk.js": "/static/js/787.db9b214f.chunk.js",
     "static/media/after_kop_surat.jpg": "/static/media/after_kop_surat.79f69ff69ee1dd85eb04.jpg",
     "static/media/kartika.ttf": "/static/media/kartika.09aadea0390ca6d34365.ttf",
     "static/media/ttd-kabag-umum.JPG": "/static/media/ttd-kabag-umum.e011c6607f6753faf5db.JPG",
     "static/media/ttd-sub-koordinator.JPG": "/static/media/ttd-sub-koordinator.14fb1f4fe79415cce6f7.JPG",
     "static/media/esdm.png": "/static/media/esdm.8e4b9e89bf524052bb88.png",
+    "static/media/ttd_pajak.JPG": "/static/media/ttd_pajak.b9fb1d575dddbf9a9e93.JPG",
     "static/media/profile.png": "/static/media/profile.f5bbe1673e4ffc2b337c.png",
     "static/media/pjk.JPG": "/static/media/pjk.98ad2af5d31f20965780.JPG",
     "static/media/bg2.svg": "/static/media/bg2.d8a6d56017edf21db042.svg",
@@ -21,11 +22,11 @@
     "static/media/class.svg": "/static/media/class.654622b94e12ca8d64accf1c58da7a2f.svg",
     "static/media/trending_up.svg": "/static/media/trending_up.093150e2b92918ef51b0d0da8181088f.svg",
     "main.4c05a2e0.css.map": "/static/css/main.4c05a2e0.css.map",
-    "main.552e84e7.js.map": "/static/js/main.552e84e7.js.map",
+    "main.e21450e3.js.map": "/static/js/main.e21450e3.js.map",
     "787.db9b214f.chunk.js.map": "/static/js/787.db9b214f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c05a2e0.css",
-    "static/js/main.552e84e7.js"
+    "static/js/main.e21450e3.js"
   ]
 }
