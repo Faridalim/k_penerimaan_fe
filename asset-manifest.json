@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f3a81e2c.css",
-    "main.js": "/static/js/main.5d23a431.js",
+    "main.js": "/static/js/main.cce90d5c.js",
     "static/js/787.db9b214f.chunk.js": "/static/js/787.db9b214f.chunk.js",
     "static/media/after_kop_surat.jpg": "/static/media/after_kop_surat.79f69ff69ee1dd85eb04.jpg",
     "static/media/kartika.ttf": "/static/media/kartika.09aadea0390ca6d34365.ttf",
@@ -23,11 +23,11 @@
     "static/media/class.svg": "/static/media/class.654622b94e12ca8d64accf1c58da7a2f.svg",
     "static/media/trending_up.svg": "/static/media/trending_up.093150e2b92918ef51b0d0da8181088f.svg",
     "main.f3a81e2c.css.map": "/static/css/main.f3a81e2c.css.map",
-    "main.5d23a431.js.map": "/static/js/main.5d23a431.js.map",
+    "main.cce90d5c.js.map": "/static/js/main.cce90d5c.js.map",
     "787.db9b214f.chunk.js.map": "/static/js/787.db9b214f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3a81e2c.css",
-    "static/js/main.5d23a431.js"
+    "static/js/main.cce90d5c.js"
   ]
 }
